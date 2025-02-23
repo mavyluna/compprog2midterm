@@ -86,7 +86,7 @@ public class Main {
         d1.printDog();
         d2.printDog();
 
-        System.out.println("\nArea and Perimeter of a Triangle");
+        System.out.println("\nArea and Perimeter of a Rectangle");
         Rectangle rect = new Rectangle(6.5, 12.0);
         System.out.println("Width: " + rect.width + ", Height: " + rect.height);
         System.out.println("Area: " + rect.calculateArea());
